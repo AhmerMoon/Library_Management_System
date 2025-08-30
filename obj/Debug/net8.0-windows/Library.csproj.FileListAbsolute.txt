@@ -1,0 +1,58 @@
+D:\Project\Library\bin\Debug\net8.0-windows\Library.exe
+D:\Project\Library\bin\Debug\net8.0-windows\Library.deps.json
+D:\Project\Library\bin\Debug\net8.0-windows\Library.runtimeconfig.json
+D:\Project\Library\bin\Debug\net8.0-windows\Library.dll
+D:\Project\Library\bin\Debug\net8.0-windows\Library.pdb
+D:\Project\Library\bin\Debug\net8.0-windows\Oracle.ManagedDataAccess.dll
+D:\Project\Library\bin\Debug\net8.0-windows\System.DirectoryServices.Protocols.dll
+D:\Project\Library\bin\Debug\net8.0-windows\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Project\Library\bin\Debug\net8.0-windows\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Project\Library\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Project\Library\obj\Debug\net8.0-windows\Library.csproj.AssemblyReference.cache
+D:\Project\Library\obj\Debug\net8.0-windows\Library.Form1.resources
+D:\Project\Library\obj\Debug\net8.0-windows\Library.csproj.GenerateResource.cache
+D:\Project\Library\obj\Debug\net8.0-windows\Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Library\obj\Debug\net8.0-windows\Library.AssemblyInfoInputs.cache
+D:\Project\Library\obj\Debug\net8.0-windows\Library.AssemblyInfo.cs
+D:\Project\Library\obj\Debug\net8.0-windows\Library.csproj.CoreCompileInputs.cache
+D:\Project\Library\obj\Debug\net8.0-windows\Library.csproj.Up2Date
+D:\Project\Library\obj\Debug\net8.0-windows\Library.dll
+D:\Project\Library\obj\Debug\net8.0-windows\refint\Library.dll
+D:\Project\Library\obj\Debug\net8.0-windows\Library.pdb
+D:\Project\Library\obj\Debug\net8.0-windows\Library.genruntimeconfig.cache
+D:\Project\Library\obj\Debug\net8.0-windows\ref\Library.dll
+D:\Project\Library\obj\Debug\net8.0-windows\Library.Login.resources
+D:\Project\Library\obj\Debug\net8.0-windows\Library.MainLoginForm.resources
+D:\Project\Library\obj\Debug\net8.0-windows\Library.CustomerForm.resources
+D:\Project\Library\obj\Debug\net8.0-windows\Library.CustomerLogin.resources
+D:\Project\Library\obj\Debug\net8.0-windows\Library.Properties.Resources.resources
+D:\Project\Library\obj\Debug\net8.0-windows\Library.PersonalInfo.resources
+D:\Visual Studio 2022\Library\bin\Debug\net8.0-windows\Library.exe
+D:\Visual Studio 2022\Library\bin\Debug\net8.0-windows\Library.deps.json
+D:\Visual Studio 2022\Library\bin\Debug\net8.0-windows\Library.runtimeconfig.json
+D:\Visual Studio 2022\Library\bin\Debug\net8.0-windows\Library.dll
+D:\Visual Studio 2022\Library\bin\Debug\net8.0-windows\Library.pdb
+D:\Visual Studio 2022\Library\bin\Debug\net8.0-windows\Oracle.ManagedDataAccess.dll
+D:\Visual Studio 2022\Library\bin\Debug\net8.0-windows\System.DirectoryServices.Protocols.dll
+D:\Visual Studio 2022\Library\bin\Debug\net8.0-windows\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Visual Studio 2022\Library\bin\Debug\net8.0-windows\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Visual Studio 2022\Library\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Visual Studio 2022\Library\obj\Debug\net8.0-windows\Library.csproj.AssemblyReference.cache
+D:\Visual Studio 2022\Library\obj\Debug\net8.0-windows\Library.CustomerForm.resources
+D:\Visual Studio 2022\Library\obj\Debug\net8.0-windows\Library.CustomerLogin.resources
+D:\Visual Studio 2022\Library\obj\Debug\net8.0-windows\Library.Form1.resources
+D:\Visual Studio 2022\Library\obj\Debug\net8.0-windows\Library.Login.resources
+D:\Visual Studio 2022\Library\obj\Debug\net8.0-windows\Library.MainLoginForm.resources
+D:\Visual Studio 2022\Library\obj\Debug\net8.0-windows\Library.PersonalInfo.resources
+D:\Visual Studio 2022\Library\obj\Debug\net8.0-windows\Library.Properties.Resources.resources
+D:\Visual Studio 2022\Library\obj\Debug\net8.0-windows\Library.csproj.GenerateResource.cache
+D:\Visual Studio 2022\Library\obj\Debug\net8.0-windows\Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio 2022\Library\obj\Debug\net8.0-windows\Library.AssemblyInfoInputs.cache
+D:\Visual Studio 2022\Library\obj\Debug\net8.0-windows\Library.AssemblyInfo.cs
+D:\Visual Studio 2022\Library\obj\Debug\net8.0-windows\Library.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022\Library\obj\Debug\net8.0-windows\Library.csproj.Up2Date
+D:\Visual Studio 2022\Library\obj\Debug\net8.0-windows\Library.dll
+D:\Visual Studio 2022\Library\obj\Debug\net8.0-windows\refint\Library.dll
+D:\Visual Studio 2022\Library\obj\Debug\net8.0-windows\Library.pdb
+D:\Visual Studio 2022\Library\obj\Debug\net8.0-windows\Library.genruntimeconfig.cache
+D:\Visual Studio 2022\Library\obj\Debug\net8.0-windows\ref\Library.dll
